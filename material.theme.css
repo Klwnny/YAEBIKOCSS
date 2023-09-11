@@ -18,6 +18,7 @@
 @import url('https://maendisease.github.io/BetterDiscordStuff/css/bettterInvites.css');
 @import url('https://thecommieaxolotl.github.io/BetterDiscord-Stuff/MaterialDesign/Clients/betterdiscord.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://example.com');
 
 :root {
   --font-primary: Roboto;
@@ -94,8 +95,8 @@
   --switch-checked-background: hsl(101, calc(var(--saturation-factor) * 54%), 27%);
   --switch-unchecked-background: #74796e33;
   --switch-unchecked-color: #74796e;
-  --skin-name: "Default";
-  --skin-author: "TheCommieAxolotl";
+  --skin-name: "TheCommieBastard!";
+  --skin-author: "John S.";
   --00dp: hsla(var(--skin-background-h, 0), calc(var(--saturation-factor, 1) * var(--skin-background-s, 0%)), calc(0.07% * var(--skin-background-l, 0)), calc(1% * var(--skin-background-a, 100)));
   --01dp: hsla(var(--skin-background-h, 0), calc(var(--saturation-factor, 1) * var(--skin-background-s, 0%)), calc(0.11% * var(--skin-background-l, 0)), calc(1% * var(--skin-background-a, 100)));
   --02dp: hsla(var(--skin-background-h, 0), calc(var(--saturation-factor, 1) * var(--skin-background-s, 0%)), calc(0.13% * var(--skin-background-l, 0)), calc(1% * var(--skin-background-a, 100)));
@@ -139,8 +140,8 @@
   --switch-checked-background: hsl(101, calc(var(--saturation-factor) * 54%), 27%);
   --switch-unchecked-background: #74796e33;
   --switch-unchecked-color: #74796e;
-  --skin-name: "Default Light";
-  --skin-author: "TheCommieAxolotl";
+  --skin-name: "Commie Bastards!!";
+  --skin-author: "John S.";
 }
 
 /* Any custom CSS below here */
